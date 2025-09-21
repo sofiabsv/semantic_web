@@ -18,7 +18,7 @@ We used the **[Most Streamed Spotify Songs 2024](https://www.kaggle.com/datasets
 | `spotify_project.csv`   | Raw tabular data from Kaggle (tracks, artists, features).                  |
 | `spotify_project.ipynb` | Jupyter notebook: processing, analysis, graph creation, and visualization. |
 | `out.json`              | Exported JSON data from transformations/queries.                           |
-| `visuals/`              | Folder with generated visual artifacts (charts, graphs, etc.).             |
+| `visuals/`              | Folder with visual artifacts.             |
 
 ## Features
 
@@ -52,4 +52,5 @@ We used the **[Most Streamed Spotify Songs 2024](https://www.kaggle.com/datasets
 ## License
 
 This project is for educational purposes as part of academic coursework at HTWK Leipzig. Contributions and improvements are welcome.
+
 
